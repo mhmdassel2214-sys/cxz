@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967915794118",
+    "project_id": "asmovies-e4688",
+    "storage_bucket": "asmovies-e4688.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967915794118:android:39b2b266dcf50d1509b1c7",
+        "android_client_info": {
+          "package_name": "com.moha.asmovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGlsBYzPAC7ixAxjflRi11P4tTqKK0c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
